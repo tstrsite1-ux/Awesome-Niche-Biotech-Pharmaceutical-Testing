@@ -1,9 +1,9 @@
-# Awesome-Niche-Biotech-Pharmaceutical-Testing
-Niche Biotech and Pharmaceutical Testing Services Directory for Quality Assurance and Certifications like  iso-17025.
+# Awesome-Niche-Testing-Services-Directory
+Niche Biotech, Pharmaceutical, Hydrogen Infra and other Testing Services Directory for Quality Assurance and Certifications like  iso-17025.
 
-# Biotech Testing Services [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Maintenance](https://img.shields.io/badge/maintenance-active-brightgreen.svg) [![License: CC0](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+# Biopharma & Hydrogen Infrastructure Testing Services [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Maintenance](https://img.shields.io/badge/maintenance-active-brightgreen.svg) [![License: CC0](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-> A curated list of high-value, niche physical and biological testing laboratories, service providers, and certification bodies worldwide.
+> A curated list of high-value, niche infrastructure, physical and biological testing laboratories, service providers, and certification bodies worldwide.
 
 **🔍 Advanced Search:** For standards-based search, technical specifications, and 180+ verified labs, visit [**TSTR.site**](https://tstr.site) — the official searchable directory powered by this community.
 
