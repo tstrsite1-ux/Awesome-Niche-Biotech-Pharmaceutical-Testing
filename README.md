@@ -1,8 +1,8 @@
-# Biopharma & Hydrogen Infrastructure Testing Services
+# Biopharma, Hydrogen Infrastructure and Other Niche Testers Providing Testing Services and Products
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Maintenance](https://img.shields.io/badge/maintenance-active-brightgreen.svg) [![License: CC0](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-> A curated list of high-value, niche infrastructure, physical and biological testing laboratories, service providers, and certification bodies worldwide.
+> A curated list of high-value, niche infrastructure, physical and biological testing laboratories, service providers, and certification bodies worldwide - testers offering testing services and products.
 
 **🔍 Advanced Search:** For standards-based search (ISO 17025, SAE, ASTM), technical specifications, and verified contact details, visit [**TSTR.site**](https://tstr.site) — the official searchable directory powered by this community.
 
@@ -23,12 +23,12 @@
 
 ## About
 
-This list focuses exclusively on **physical hardware testing, biological testing, and industrial certification services**. We cover:
+This list focuses exclusively on testers persforming **physical hardware testing, biological testing, and industrial certification services**. We cover:
 
 - **Hydrogen & Energy:** High-pressure (700 bar), cryogenic, and fuel cell component validation.
-- **Biological Testing:** Pharmaceutical, biocompatibility, preclinical, biosafety.
-- **Laboratory Testing:** EMC, HPLC, GC-MS, tensile strength, metallurgy.
-- **Industrial Testing:** Environmental chambers, HALT/HASS, salt spray, IP ratings.
+- **Biological Testers:** Pharmaceutical, biocompatibility, preclinical, biosafety.
+- **Laboratory Testers:** EMC, HPLC, GC-MS, tensile strength, metallurgy.
+- **Industrial Testers:** Environmental chambers, HALT/HASS, salt spray, IP ratings.
 - **Certification:** UL, CE, ISO 17025, A2LA accreditation.
 
 **Explicitly Excluded:** Software QA, unit testing frameworks, code coverage tools, and digital security testing.
@@ -37,7 +37,7 @@ This list focuses exclusively on **physical hardware testing, biological testing
 
 ---
 
-## Hydrogen Infrastructure
+## Hydrogen Infrastructure Testers
 
 *Testing for the Hydrogen Economy: Fuel cells, electrolysis, high-pressure storage (Type IV tanks), valves, and fueling stations.*
 
@@ -54,7 +54,7 @@ This list focuses exclusively on **physical hardware testing, biological testing
 
 ---
 
-## Biotech & Pharma
+## Biotech & Pharma Testers
 
 *Laboratories specializing in pharmaceutical analysis, biocompatibility, preclinical testing, and regulated biologics.*
 
@@ -71,7 +71,7 @@ This list focuses exclusively on **physical hardware testing, biological testing
 
 ---
 
-## EMC & Electronics
+## EMC & Electronics Testers
 
 *Electromagnetic compatibility, emissions testing, environmental simulation, and electronic component validation.*
 
@@ -88,7 +88,7 @@ This list focuses exclusively on **physical hardware testing, biological testing
 
 ---
 
-## Environmental & Stress Testing
+## Environmental & Stress Testers
 
 *HALT, HASS, thermal cycling, altitude chambers, salt spray, IP ingress testing, and accelerated life testing.*
 
@@ -120,7 +120,7 @@ This list focuses exclusively on **physical hardware testing, biological testing
 
 ---
 
-## Certification Bodies
+## Certification Bodies - Testers
 
 *Accreditation organizations, notified bodies, and standards authorities.*
 
