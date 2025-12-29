@@ -4,7 +4,7 @@
 
 > A curated list of high-value, niche infrastructure, physical and biological testing laboratories, service providers, and certification bodies worldwide - testers offering testing services and products.
 
-**🔍 Advanced Search:** For standards-based search (ISO 17025, SAE, ASTM), technical specifications, and verified contact details, visit [**TSTR.site**](https://tstr.site) — the official searchable directory powered by this community.
+**🔍 Advanced Search:** For standards-based search (ISO 17025, SAE, ASTM), technical specifications, and verified contact details, visit [**TSTR.directory**](https://tstr.directory) — the official searchable directory powered by this community.
 
 ---
 
@@ -153,7 +153,7 @@ Contributions are welcome! Please ensure your submission meets the following cri
 * **No Spam:** One entry per provider.
 * **Accurate Links:** URL must resolve to provider's official website.
 
-**💡 Pro Tip:** After adding a lab here, consider submitting it to [TSTR.site](https://tstr.site/submit) for inclusion in the searchable database.
+**💡 Pro Tip:** After adding a lab here, consider submitting it to [TSTR.site](https://tstr.directory/submit) for inclusion in the searchable database.
 
 ---
 
@@ -163,4 +163,4 @@ Contributions are welcome! Please ensure your submission meets the following cri
 
 To the extent possible under law, the maintainers have waived all copyright and related or neighboring rights to this work.
 
-**Maintained by the [TSTR.site](https://tstr.site) community.**
+**Maintained by the [TSTR.site](https://tstr.directory) community.**
